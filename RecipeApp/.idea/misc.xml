@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/activity_recipe_details.xml" value="0.1" />
+        <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_instructions.xml" value="0.11180555555555556" />
+        <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_instructions_step_itens.xml" value="0.1094224924012158" />
+        <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_instructions_steps.xml" value="0.1099290780141844" />
         <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_meal_ingredients.xml" value="0.22" />
         <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_random_recipe.xml" value="0.1" />
         <entry key="..\:/Users/Marcelo/Mobile/RecipeApp/app/src/main/res/layout/list_similar_recipe.xml" value="0.11180555555555556" />
